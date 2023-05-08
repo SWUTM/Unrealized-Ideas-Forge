@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "unrealizedideas:block/infinity_source_of_lava"
+  }
+}

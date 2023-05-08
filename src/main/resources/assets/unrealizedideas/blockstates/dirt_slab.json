@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "unrealizedideas:block/dirt_slab"
+    },
+    "type=double": {
+      "model": "unrealizedideas:block/dirt_slab_planks"
+    },
+    "type=top": {
+      "model": "unrealizedideas:block/dirt_slab_top"
+    }
+  }
+}

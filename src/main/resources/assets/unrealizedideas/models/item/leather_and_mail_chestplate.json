@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "unrealizedideas:item/leather_and_mail_chestplate"
+  }
+}
